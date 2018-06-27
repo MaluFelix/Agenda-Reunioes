@@ -1,0 +1,50 @@
+﻿@model AgendaReuniao.Models.Agenda
+@{ ViewBag.Title = "Adicionar Evento";}
+<h2>@ViewBag.Title</h2>
+<form asp-controller="Agendas" asp-action="Add" method="post" class="form-horizontal" role="form">
+    <div class="form-horizontal">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Evento" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Evento" class="form-control" />
+                <span asp-validation-for="Evento" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Responsavel" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Responsavel" class="form-control" />
+                <span asp-validation-for="Responsavel" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Email" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="DataHora" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="DataHora" class="form-control" />
+                <span asp-validation-for="DataHora" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Status" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Status" class="form-control" />
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Incluir" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+

@@ -1,0 +1,24 @@
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\bin\Debug\netcoreapp2.0\AgendaReuniao.deps.json
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\bin\Debug\netcoreapp2.0\AgendaReuniao.runtimeconfig.json
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\bin\Debug\netcoreapp2.0\AgendaReuniao.runtimeconfig.dev.json
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\bin\Debug\netcoreapp2.0\AgendaReuniao.dll
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\bin\Debug\netcoreapp2.0\AgendaReuniao.pdb
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.csproj.CoreCompileInputs.cache
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.AssemblyInfoInputs.cache
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.AssemblyInfo.cs
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.dll
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.pdb
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.csprojAssemblyReference.cache
+C:\Users\Malu Félix\Desktop\Agenda de Reuniões\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\bin\Debug\netcoreapp2.0\AgendaReuniao.deps.json
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\bin\Debug\netcoreapp2.0\AgendaReuniao.runtimeconfig.json
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\bin\Debug\netcoreapp2.0\AgendaReuniao.runtimeconfig.dev.json
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\bin\Debug\netcoreapp2.0\AgendaReuniao.dll
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\bin\Debug\netcoreapp2.0\AgendaReuniao.pdb
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.csprojAssemblyReference.cache
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.csproj.CoreCompileInputs.cache
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.AssemblyInfoInputs.cache
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.AssemblyInfo.cs
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.dll
+C:\Users\Malu Félix\Desktop\AgendaReunioes\AgendaReuniao\AgendaReuniao\obj\Debug\netcoreapp2.0\AgendaReuniao.pdb

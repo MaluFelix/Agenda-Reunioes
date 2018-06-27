@@ -1,0 +1,50 @@
+﻿<h2>@ViewBag.Title</h2>
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Evento</th>
+        <th>Responsavel</th>
+        <th>E-mail</th>
+        <th>Data e Hora</th>
+        <th>Status</th>
+        <th>Deletar</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <a href="Agendas/Edit/@item.Id">
+                    @item.Id
+                </a>
+            </td>
+            <td>
+                <a href="Agendas/Edit/@item.Id">
+                    @item.Evento
+                </a>
+            </td>
+            <td>
+                <a href="Agendas/Edit/@item.Id">
+                    @item.Responsavel
+                </a>
+            </td>
+            <td>
+                <a href="Agendas/Edit/@item.Id">
+                    @item.Email
+                </a>
+            </td>
+            <td>
+                <a href="Agendas/Edit/@item.Id">
+                    @item.DataHora
+                </a>
+            </td>
+            <td>
+                <a href="Agendas/Edit/@item.Id">
+                    @item.Status
+                </a>
+            </td>
+            <td>
+                <a href="Agendas/Delete/@item.Id">deletar</a>
+            </td>
+        </tr>
+    }
+</table>

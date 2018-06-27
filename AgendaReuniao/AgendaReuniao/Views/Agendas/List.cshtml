@@ -1,0 +1,34 @@
+﻿<h2>@ViewBag.Title</h2>
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Evento</th>
+        <th>Responsavel</th>
+        <th>E-mail</th>
+        <th>Data e Hora</th>
+        <th>Status</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td "Agendas/List/@item.Id">
+                    @item.Id
+            </td>
+            <td "Agendas/List/@item.Id">
+                    @item.Evento
+            </td>
+            <td "Agendas/List/@item.Id">
+                    @item.Responsavel
+            </td>
+            <td "Agendas/List/@item.Id">
+                    @item.Email
+            </td>
+            <td "Agendas/List/@item.Id">
+                    @item.DataHora
+            </td>
+            <td "Agendas/List/@item.Id">
+                    @item.Status
+            </td>
+        </tr>
+    }
+</table>
